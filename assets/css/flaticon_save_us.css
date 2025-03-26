@@ -1,0 +1,109 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "flaticon_save_us";
+  src: url("./flaticon_save_us.ttf?2f0624678fb5e8dd15876c2962b64af9") format("truetype"), url("./flaticon_save_us.woff?2f0624678fb5e8dd15876c2962b64af9") format("woff"), url("./flaticon_save_us.woff2?2f0624678fb5e8dd15876c2962b64af9") format("woff2"), url("./flaticon_save_us.eot?2f0624678fb5e8dd15876c2962b64af9#iefix") format("embedded-opentype"), url("./flaticon_save_us.svg?2f0624678fb5e8dd15876c2962b64af9#flaticon_save_us") format("svg"); }
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon_save_us !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.flaticon-facebook-app-symbol:before {
+  content: ""; }
+
+.flaticon-twitter:before {
+  content: ""; }
+
+.flaticon-linkedin:before {
+  content: ""; }
+
+.flaticon-pinterest:before {
+  content: ""; }
+
+.flaticon-phone-call:before {
+  content: ""; }
+
+.flaticon-email:before {
+  content: ""; }
+
+.flaticon-location:before {
+  content: ""; }
+
+.flaticon-share:before {
+  content: ""; }
+
+.flaticon-right-arrow:before {
+  content: ""; }
+
+.flaticon-left-arrow:before {
+  content: ""; }
+
+.flaticon-quote:before {
+  content: ""; }
+
+.flaticon-user:before {
+  content: ""; }
+
+.flaticon-bubble-chat:before {
+  content: ""; }
+
+.flaticon-arrow-right:before {
+  content: ""; }
+
+.flaticon-search:before {
+  content: ""; }
+
+.flaticon-search-interface-symbol:before {
+  content: ""; }
+
+.flaticon-time:before {
+  content: ""; }
+
+.flaticon-pin:before {
+  content: ""; }
+
+.flaticon-maps-and-flags:before {
+  content: ""; }
+
+.flaticon-add:before {
+  content: ""; }
+
+.flaticon-minus:before {
+  content: ""; }
+
+.flaticon-handshake:before {
+  content: ""; }
+
+.flaticon-drop:before {
+  content: ""; }
+
+.flaticon-college-graduation:before {
+  content: ""; }
+
+.flaticon-salad:before {
+  content: ""; }
+
+.flaticon-play-button-arrowhead:before {
+  content: ""; }
+
+.flaticon-plus:before {
+  content: ""; }
+
+.flaticon-left-arrow-1:before {
+  content: ""; }
+
+.flaticon-right-arrow-1:before {
+  content: ""; }
+
+.flaticon-angle-right:before {
+  content: ""; }
+
+.flaticon-angle-left:before {
+  content: ""; }
+
+.flaticon-down:before {
+  content: ""; }
